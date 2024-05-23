@@ -1,0 +1,10 @@
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\bin\Debug\OscillatorClient.exe.config
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\bin\Debug\OscillatorClient.exe
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\bin\Debug\OscillatorClient.pdb
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.csproj.AssemblyReference.cache
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.Form1.resources
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.Properties.Resources.resources
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.csproj.GenerateResource.cache
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.csproj.CoreCompileInputs.cache
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.exe
+A:\MyStuff\Projects\MARLAB_HF_ClientApp\OscillatorClient\OscillatorClient\obj\Debug\OscillatorClient.pdb
